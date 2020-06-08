@@ -22,8 +22,7 @@ this github contains everything you need to build this project from scratch. thi
 
 ## Result 
 
-![](media_files/locker_view.jpg)
-
 <img src="media_files/locker_view.jpg"
      alt="view of the locker inside"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" 
+     data-rotate="90"/>
