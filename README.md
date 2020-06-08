@@ -24,5 +24,22 @@ this github contains everything you need to build this project from scratch. thi
 
 <img src="media_files/locker_view.jpg"
      alt="view of the locker inside"
-     style="float: left; margin-right: 10px;" 
-     data-rotate="90"/>
+     style="width: 200px" 
+     />
+
+<img src="media_files/outside_view.jpg"
+     alt="view of the locker outside"
+     style="width: 200px"
+     />
+
+<img src="media_files/connection_view.jpg"
+     alt="view of the connections for the locker"
+     style="width: 200px"
+     />
+
+<img src="media_files/plug.jpg"
+     alt="plug"
+     style="width: 200px" 
+     />
+
+In the media_files folder, there is two videos that show the utilisation of the Arduino with the RFID chip. 
