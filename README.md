@@ -22,6 +22,6 @@ this github contains everything you need to build this project from scratch. thi
 
 ## Result 
 
-![](locker_view.jpg)
+![](media_files/locker_view.jpg)
 
 
