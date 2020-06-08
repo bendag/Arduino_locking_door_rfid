@@ -9,5 +9,19 @@ this github contains everything you need to build this project from scratch. thi
 -   Arduino Code
 -   components listing and accessories
 
-TODO
+## Components 
+    - Arduino uno
+    - RFID kit (RFID-RC522 IC Card reader sensor module with cards and tags)
+    - Servo motor MG995
+    - Solde-able breadboard
+    - Jump wires (dozen)
+    - LED (red and green)
+    - button
+    - resistors (x3)
+    - Special tools : 3D printer, solder, hot glue
+
+## Result 
+
+![](locker_view.jpg)
+
 
